@@ -1,4 +1,4 @@
-#Kyutae Han
+Kyutae Han
 
 Hello, this is Kyutae
 I am also majoring Computer Science 
